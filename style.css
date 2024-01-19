@@ -107,14 +107,16 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 35px;
+    text-align: center;
+    padding: 40px;
     min-width: 24rem;
+    gap: 1.5rem;
 }
 
 .profile__img{
     border-radius: 50%;
-    max-width: 5rem;
-    margin-bottom: 20px;
+    max-width: 88px;
+    max-height: 88px;
 }
 
 .profile__name{
@@ -130,7 +132,6 @@ body{
 .profile__description{
     font-weight: var(--regular-fw);
     color: var(--White);
-    margin-top: 20px;
     font-size: .85rem;
 }
 
