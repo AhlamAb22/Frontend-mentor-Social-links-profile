@@ -139,13 +139,12 @@ body{
     display: grid;
     gap: 1rem;
     width: 100%;
-    margin-top: 20px;
 }
 
 .profile__accounts__button{
     text-decoration: none;
     background-color: var(--Grey);
-    padding: 15px;
+    padding: 12px;
     color: white;
     border-radius: 8px;
     text-align: center;
